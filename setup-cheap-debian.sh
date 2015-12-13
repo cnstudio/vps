@@ -16,7 +16,7 @@ gpg -a --export 89DF5277 | apt-key add -
 
 apt-get update
 
-wget http://github.com/lowendbox/lowendscript/raw/master/setup-debian.sh
+wget http://github.com/Xeoncross/lowendscript/raw/master/setup-debian.sh
 
 bash setup-debian.sh system
 
